@@ -1,0 +1,15 @@
+/workspace/hse-2023-winter/movies/frontend/bin/Debug/net8.0/frontend
+/workspace/hse-2023-winter/movies/frontend/bin/Debug/net8.0/frontend.deps.json
+/workspace/hse-2023-winter/movies/frontend/bin/Debug/net8.0/frontend.runtimeconfig.json
+/workspace/hse-2023-winter/movies/frontend/bin/Debug/net8.0/frontend.dll
+/workspace/hse-2023-winter/movies/frontend/bin/Debug/net8.0/frontend.pdb
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.AssemblyInfoInputs.cache
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.AssemblyInfo.cs
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.csproj.CoreCompileInputs.cache
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.sourcelink.json
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.dll
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/refint/frontend.dll
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.pdb
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/frontend.genruntimeconfig.cache
+/workspace/hse-2023-winter/movies/frontend/obj/Debug/net8.0/ref/frontend.dll
