@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - redhat.java
+
+# Specify the Java version
+javaVersion: "17"
+
+tasks:
+  - command: mvn clean install
